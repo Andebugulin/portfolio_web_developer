@@ -6,8 +6,9 @@
   .about-containers {
     flex-wrap: wrap;
   }
-  #contact,
-  #projects {
+  #experience,
+  #projects,
+  #content {
     height: fit-content;
   }
 }
@@ -21,7 +22,7 @@
   }
   #experience,
   .experience-details-container {
-    margin-top: 2rem;
+    margin-top: 3rem;
   }
   #profile,
   .section-container {

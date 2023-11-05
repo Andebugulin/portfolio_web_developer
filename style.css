@@ -167,6 +167,7 @@ section {
   justify-content: center;
   gap: 5rem;
   height: 80vh;
+  margin-bottom: 9rem;
 }
 
 .section__pic-container {
@@ -305,7 +306,7 @@ section {
 
 .section-container {
   gap: 4rem;
-  height: 80%;
+  height: 70%;
 }
 
 .section__pic-container {
@@ -318,6 +319,7 @@ section {
 
 #experience {
   position: relative;
+  margin-bottom: 9rem;
 }
 
 .experience-sub-title {
@@ -361,6 +363,7 @@ article .skill {
 
 #projects {
   position: relative;
+  margin-bottom: 9rem;
 }
 
 .color-container {
